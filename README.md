@@ -1,4 +1,4 @@
-# Bird------System---Peacetopia
+#Bird-Detection-Peacetopia
 This project is about developing a Bird Detection system approach for the city of Peacetopia with the help of a machine learning approach.
 
 ## Overview
