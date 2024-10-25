@@ -1,7 +1,7 @@
 # Bird Detection System - Peacetopia
 
 ## Overview
-The Bird Detection System project aims to develop a machine learning algorithm for detecting birds in the fictional city of Peacetopia. The city faces unique challenges, with citizens concerned about the impact of birds in their environment. This project seeks to provide a reliable solution that addresses these concerns.
+The Bird Detection System project aims to develop a machine learning algorithm for detecting birds in the fictional city of Peacetopia. The city faces unique challenges, as citizens are fearful of birds. Our goal is to create an accurate and efficient bird detection system.
 
 ## Problem Statement
 Peacetopia’s security cameras capture millions of images of the sky. Our task is to classify each image as either containing a bird or not, while providing the highest accuracy and adhering to strict memory and runtime constraints.
@@ -20,4 +20,5 @@ To run this project, you will need Python installed on your machine along with t
 You can install the required libraries using pip:
 ```bash
 pip install numpy pandas tensorflow opencv-python
+
 
