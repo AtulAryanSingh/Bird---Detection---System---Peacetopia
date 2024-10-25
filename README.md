@@ -12,9 +12,6 @@ We evaluated various models based on:
 - **Accuracy**: Aiming for the highest possible accuracy in detecting birds.
 - **Efficiency**: Ensuring the model runs quickly and can fit within limited memory.
 
-- ## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/bird-detection-peacetopia.git
+
 
 
